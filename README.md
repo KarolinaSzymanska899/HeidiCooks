@@ -1,7 +1,7 @@
-# Live Rock - Project Exam 1
+# Heidi Cooks - Project Exam 1
 
 <p align="center">
-  <img src="./images/heidicooks.jpg" alt="Live Rock homepage" />
+  <img src="./images/heidicooks.jpg" alt="Heidi Cooks homepage" />
 </p>
 
 ## Description
@@ -57,7 +57,7 @@ Please use JavaScript for validation, show error messages if the values in the t
 1. Clone the repo:
 
 ```bash
-git clone git@github.com:Noroff-FEU-Assignments/project-exam-1-KarolinaSzymanska899.git
+git clone git@github.com:KarolinaSzymanska899/HeidiCooks.git
 ```
 
 ### Running
