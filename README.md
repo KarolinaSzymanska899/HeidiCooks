@@ -57,7 +57,7 @@ Please use JavaScript for validation, show error messages if the values in the t
 1. Clone the repo:
 
 ```bash
-git clone git@github.com:KarolinaSzymanska899/HeidiCooks.git
+git clone git@github.com:karolina-szymanska/HeidiCooks.git
 ```
 
 ### Running
